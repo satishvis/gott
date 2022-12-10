@@ -1,6 +1,6 @@
 package main
 
-import "github.com/jblawatt/gott/gott"
+import "github.com/satishvis/gott/gott"
 
 func main() {
 	gott.Execute()

@@ -1,4 +1,4 @@
-module github.com/jblawatt/gott
+module github.com/satishvis/gott
 
 go 1.17
 
